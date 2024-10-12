@@ -1,6 +1,10 @@
-# Lollipop
-Lollipop is a music bot for discord.
+# Lollipop Bot
+###  Lollipop is a music bot for discord.
 
-Use $help in a channel to get help
+# [Website](https://lollipop-bot.com)
+## [Patreon](https://lollipop-bot.com/patreon)
 
-Support guild: https://discord.gg/CAfYPA8TNN
+# Support
+Use **$help** in a channel to get help
+
+[Support guild](https://lollipop-bot.com/support) | [Support mail](https://lollipop-bot.com/mail) | [Status](https://lollipop-bot.com/status)
