@@ -1,8 +1,12 @@
 # Lollipop Bot
 ###  Lollipop is a music bot for discord.
 
-# [Website](https://lollipop-bot.com)
-## [Patreon](https://lollipop-bot.com/patreon)
+# Links
+Invite Bot: https://lollipop-bot.com/invite
+
+Website: https://lollipop-bot.com
+
+Patreon: https://lollipop-bot.com/patreon
 
 # Support
 Use **$help** in a channel to get help
